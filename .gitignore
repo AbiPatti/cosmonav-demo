@@ -1,0 +1,17 @@
+# Node dependencies
+/node_modules
+
+# Environment variables
+.env
+*.env
+.env.*
+
+# API keys & secrets
+*.keys
+*.pem
+
+# System files
+.DS_Store
+
+# Expo cache
+.expo/
